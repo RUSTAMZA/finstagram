@@ -1,3 +1,4 @@
+
 def humanized_time_ago(minute_num)
   if minute_num >= 60
     "#{minute_num / 60} hours ago"
