@@ -1,12 +1,12 @@
 header {
   background-color: #244751;
-  color: #E8FDFF;
+  color: #b1ee0a;
 }
 body {
-  background-color: whitesmoke;
+  background-color: rgb(238, 236, 149);
 }
 main {
-  background-color: white;
+  background-color: rgb(241, 204, 204);
   padding: 16px;
 }
 .finstagram-post {
