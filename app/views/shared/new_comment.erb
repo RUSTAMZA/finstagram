@@ -1,0 +1,3 @@
+<% if current_user && allow_new_comment %>
+  <%= erb(:"shared/new_comment", { locals: { finstagram_post: finstagram_post }}) %>
+<% end %>
